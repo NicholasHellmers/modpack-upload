@@ -10,6 +10,7 @@
 - [x] Add user authentication (w/ clerk)
 - [ ] Add image upload
 - [ ] "taint" (Server-only )
+- [ ] Use Next/Image component
 - [ ] Routing/image page (parallel routes)
 - [ ] Delete button (w/ Server Actions)
 - [ ] Analytics (posthog)
