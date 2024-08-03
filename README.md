@@ -9,6 +9,7 @@
 - [x] Attach database to UI
 - [x] Add user authentication (w/ clerk)
 - [ ] Add image upload
+- [ ] "taint" (Server-only )
 - [ ] Routing/image page (parallel routes)
 - [ ] Delete button (w/ Server Actions)
 - [ ] Analytics (posthog)
